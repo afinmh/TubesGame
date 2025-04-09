@@ -11,7 +11,7 @@ Fitur:
    - Suara ✅
    - Keknya ga ditampilin
    - Tambah Efek Getaran pas nembak
-   - Bongkar Sniper aslinya
+   - Bongkar Sniper aslinya ✅
 5. Enemy:
    - Masih Kaku ✅
    - Ganti Model Musuh
