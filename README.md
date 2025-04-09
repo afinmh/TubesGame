@@ -6,13 +6,17 @@ Fitur:
    - Kurang lebih ada 3 basecamp (misal musuh A gakeliatan dari view basecamp 1, teleport ke basecamp 2 baru bisa liat musuh A)
 3. Weapon:
    - Mekanisme Sniper, Kamera, dan segala efeknya ✅
+   - Reload ✅
+   - Peluru ✅
+   - Suara ✅
    - Keknya ga ditampilin
    - Tambah Efek Getaran pas nembak
    - Bongkar Sniper aslinya
 5. Enemy:
    - Masih Kaku ✅
    - Ganti Model Musuh
-   - Animasi Musuh
+   - Animasi Musuh Jalan
+   - Animasi Musuh Ketembak ✅
 6. UI:
    - Main Menu
    - Lokasi Musuh
